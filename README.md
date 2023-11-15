@@ -1,9 +1,3 @@
-﻿## Next.js Parallax Effect With Gsap ScrollTrigger
+﻿## I made the front ennd for the webiste using parallax scrolling
 
-Repository of the [YouTube video](https://youtu.be/alGnk3iMaYE) on how to make a parallax effect using Next.js and Gsap ScrollTrigger.
-
-## Stack used
-
-- Next.js
-- Gsap ScrollTrigger
-- CSS
+Check it out for yourself
