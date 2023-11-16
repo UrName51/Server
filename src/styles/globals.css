@@ -119,6 +119,8 @@ body {
 .about p {
     margin-top: 20px;
     width: 80%;
+    font-size: 23px;
+    text-align: justify;
 }
 
 .column {
