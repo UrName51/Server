@@ -9,7 +9,7 @@ function Home() {
         <h2>
           Beyond Reality, Into our Minds
         </h2>
-        <p> This is our Computer Science Project website. Currently we are a team of six tenth Graders. This is the Home Page to redirect you to the individual games and apps that we have made, hope you like it and don't forget to have fun. </p>
+        <p> This is our Computer Science Project website. Currently we are a team of seven tenth Graders. This is the Home Page to redirect you to the individual games and apps that we have made, hope you like it and don't forget to have fun. </p>
       </div>
 
       <div className='team'>
@@ -96,6 +96,19 @@ function Home() {
       <iframe src="https://drive.google.com/file/d/1wdsoAvybBhRg1mkCltM7CPxMSxAAnhKJ/preview" class="profile" width="480" height="384px" allow="autoplay" ></iframe>
       <div class="container">
         <h2 class="name">Max</h2>
+        <p class="title">Developer &amp; Co-Founder</p>
+        <p class="name">Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p class="name"> example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+      </div>
+      </div>
+
+      <div class="columnlast">
+      <div class="card"> 
+      <iframe src="https://drive.google.com/file/d/1D-ekF2s4HKTaN9mELFHtui3cBbzUH9BB/preview" class="profile" width="480" height="384px" allow="autoplay" ></iframe>
+      <div class="container">
+        <h2 class="name">Mariana</h2>
         <p class="title">Developer &amp; Co-Founder</p>
         <p class="name">Some text that describes me lorem ipsum ipsum lorem.</p>
         <p class="name"> example@example.com</p>
