@@ -123,6 +123,12 @@ body {
     text-align: justify;
 }
 
+.links{
+    color: var(--secondaryColor);
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+
 .column {
     float: left;
     width: 33.3%;
