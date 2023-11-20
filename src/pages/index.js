@@ -60,10 +60,7 @@ function Home() {
       </div>
       </div>
       </div>
-      </div>
-
       
-      <div  class="row">
 
       <div class="column">
       <div class="card"> 
@@ -104,18 +101,6 @@ function Home() {
       </div>
       </div>
 
-      <div class="columnlast">
-      <div class="card"> 
-      <iframe src="https://drive.google.com/file/d/1D-ekF2s4HKTaN9mELFHtui3cBbzUH9BB/preview" class="profile" width="480" height="384px" allow="autoplay" ></iframe>
-      <div class="container">
-        <h2 class="name">Mariana</h2>
-        <p class="title">Developer &amp; Co-Founder</p>
-        <p class="name">Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p class="name"> example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-      </div>
-      </div>
 
       </div>
       
