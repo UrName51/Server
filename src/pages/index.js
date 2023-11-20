@@ -12,6 +12,8 @@ function Home() {
         <p> This is our Computer Science Project website. Currently we are a team of six tenth Graders. This is the Home Page to redirect you to the individual games and apps that we have made, hope you like it and don't forget to have fun. </p>
       </div>
 
+      
+
       <div className='team'>
 
       <h2>
@@ -70,7 +72,7 @@ function Home() {
         <p class="title">Developer &amp; Co-Founder</p>
         <p class="name">Some text that describes me lorem ipsum ipsum lorem.</p>
         <p class="name"> example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <form><a HREF="http://www.luna-custom.com" class="button">Contact</a></form>
       </div>
       </div>
       </div>
