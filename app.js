@@ -1,8 +1,22 @@
+
 const express = require('express');
-const app = express();
+const next = require('next');
+const path = require('path');
 
-app.get('/', (req, res) => {
-    res.render('./src/pages/index.js');
+const dev = process.env.NODE_ENV !== 'production';
+const nextApp = next({ dev });
+const handle = nextApp.getRequestHandler();
+
+nextApp.prepare().then(() => {
+  const app = express();
+
+  app.use(express.static(path.join(__dirname, 'public')));
+
+  app.get('*', (req, res) => {
+    return handle(req, res);
+  });
+
+  app.listen(3000, () => {
+    console.log('App is running on port 3000');
+  });
 });
-
-app.listen(3000, () => "app is running on port 3000");
