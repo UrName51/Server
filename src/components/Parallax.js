@@ -130,8 +130,6 @@ function Parallax() {
                 
             </div>
         </div>
-
-        
     )
 }
 
