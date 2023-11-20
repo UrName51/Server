@@ -9,7 +9,7 @@ function Home() {
         <h2>
           Beyond Reality, Into our Minds
         </h2>
-        <p> This is our Computer Science Project website. Currently we are a team of seven tenth Graders. This is the Home Page to redirect you to the individual games and apps that we have made, hope you like it and don't forget to have fun. </p>
+        <p> This is our Computer Science Project website. Currently we are a team of six tenth Graders. This is the Home Page to redirect you to the individual games and apps that we have made, hope you like it and don't forget to have fun. </p>
       </div>
 
       <div className='team'>

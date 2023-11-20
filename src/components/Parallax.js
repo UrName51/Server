@@ -124,7 +124,7 @@ function Parallax() {
                 <img ref={cloudsRight} className='clouds-right' src="/parallax/clouds-right.svg" />
                 <img ref={stars} className='stars' src="/parallax/stars.svg" />
                 <div ref={copy} className="copy">
-                    <h1>DESJAMM</h1>
+                    <h1>DESJAM</h1>
                     <span ref={btn}>Scroll Down To Learn More</span>
                 </div>
                 
