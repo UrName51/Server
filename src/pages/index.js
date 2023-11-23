@@ -12,7 +12,42 @@ function Home() {
         <p> This is our Computer Science Project website. Currently we are a team of six tenth Graders. This is the Home Page to redirect you to the individual games and apps that we have made, hope you like it and don't forget to have fun. </p>
       </div>
 
-      
+      <div class="links">
+      <div class="grid">
+          <a href="/" class="linkbutton"> 
+          <h2> Dhairya's Website &rarr;</h2>
+          <p> Some text that describes me lorem ipsum ipsum lorem.</p>
+          </a>
+
+          <a href="/" class="linkbutton"> 
+          <h2> Emir's Website &rarr;</h2>
+          <p> Some text that describes me lorem ipsum ipsum lorem.</p>
+          </a>
+
+          <a href="/" class="linkbutton"> 
+          <h2> Shanay's Website &rarr;</h2>
+          <p> Some text that describes me lorem ipsum ipsum lorem.</p>
+          </a>
+
+          <a href="/" class="linkbutton"> 
+          <h2> Jaume Website &rarr;</h2>
+          <p> Some text that describes me lorem ipsum ipsum lorem.</p>
+          </a>
+
+          <a href="/" class="linkbutton"> 
+          <h2> Arkadii's Website &rarr;</h2>
+          <p> Some text that describes me lorem ipsum ipsum lorem.</p>
+          </a>
+
+          <a href="/" class="linkbutton"> 
+          <h2> Max's Website &rarr;</h2>
+          <p> Some text that describes me lorem ipsum ipsum lorem.</p>
+          </a>
+
+      </div>
+
+
+      </div>
 
       <div className='team'>
 
