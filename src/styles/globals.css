@@ -108,7 +108,7 @@ body {
 .about {
     color: var(--secondaryColor);
     padding-left: 10%;
-    padding-bottom: 5%;
+    padding-bottom: 10%;
 }
 
 .about h2 {
@@ -124,8 +124,8 @@ body {
 }
 
 .links{
-    color: var(--secondaryColor);;
-    background-color: var(--primaryColor);
+    color: var(--secondaryColor);
+    padding-left: 10%;
     padding-bottom: 10%;
 }
 
@@ -220,7 +220,6 @@ body {
       }
 
       .team {
-        padding-top: 3%;
         color: var(--secondaryColor);
         padding-left: 10%;
         padding-bottom: 3%;
@@ -242,3 +241,40 @@ body {
         max-width: 384px;
     }
 
+    .grid{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        max-width: 90%;
+    }
+
+    .linkbutton{
+        margin: 1rem;
+        padding:1.5rem;
+        text-align: left;
+        color: inherit;
+        text-decoration: none;
+        border: 1px solid var(--secondaryColor);
+        border-radius: 10px;
+        transition: color 0.15s ease, border-color o.15s ease;
+        max-width: 300px;
+        min-height: 200px;
+    }
+
+    .linkbutton:hover,
+    .linkbutton:focus,
+    .linkbutton:active{
+        color: rgb(172, 172, 172);
+        border-color: rgb(172, 172, 172);
+    }
+
+    .linkbutton h2{
+        margin: 0 0 1rem 0;
+        font-size: 2rem;
+    }
+
+    .linkbutton p{
+        font-size: 1.25rem;
+        line-height: 1.5;
+    }
