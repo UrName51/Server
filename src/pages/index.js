@@ -73,7 +73,6 @@ function Home() {
 
       <div class="column">
       <div class="card"> 
-
       <iframe src="https://drive.google.com/file/d/1Eak-pfF6NyOgaxtE18HZKqIoIhfz0H5G/preview" class="profile" width="304px" height="304px" allow="autoplay"></iframe>
       <div class="container">
         <h2 class="name">Emir</h2>
@@ -106,12 +105,12 @@ function Home() {
         <h2 class="name">Jaume</h2>
         <p class="title">Developer &amp; Co-Founder</p>
         <p class="name">Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p class="name"> example@example.com</p>
+        <p class="name"> jaumern51@gmail.com</p>
         <form><a HREF="http://www.luna-custom.com" class="button">Contact</a></ form>
       </div>
       </div>
       </div>
-<form><a HREF="http://www.luna-custom.com" class="button">Contact</a></form>
+
       <div class="column">
       <div class="card"> 
       <iframe src="https://drive.google.com/file/d/1bMy6mLPLiUzP3OdZgzqEwQhLra5I3Jz-/preview" class="profile" width="304px" height="304px" allow="autoplay" ></iframe>
