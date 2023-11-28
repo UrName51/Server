@@ -207,11 +207,13 @@ body {
         width: 100%;
         margin-bottom: 16px;
         border-radius: 25px;
+        transition: all 0.5s ease;
       }
       
       .button:hover {
         background-color: rgb(87, 11, 131);
         color: var(--secondaryColor);
+        transition: all 0.5s ease;
       }
 
       .row{
@@ -260,6 +262,7 @@ body {
         transition: color 0.15s ease, border-color o.15s ease;
         max-width: 300px;
         min-height: 200px;
+        transition: all 0.5s ease;
     }
 
     .linkbutton:hover,
@@ -267,6 +270,7 @@ body {
     .linkbutton:active{
         color: rgb(172, 172, 172);
         border-color: rgb(172, 172, 172);
+        transition: all 0.5s ease;
     }
 
     .linkbutton h2{
