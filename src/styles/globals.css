@@ -216,13 +216,13 @@ body {
 
       .row{
         padding-left: 17%;
-
+        margin-bottom: 5%;
       }
 
       .team {
         color: var(--secondaryColor);
         padding-left: 10%;
-        padding-bottom: 3%;
+        padding-bottom: 5%;
     }
     
     .team h2 {
