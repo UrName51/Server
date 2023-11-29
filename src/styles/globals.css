@@ -214,6 +214,30 @@ body {
         color: var(--secondaryColor);
       }
 
+      .profileTitle h2{
+        margin: 0;
+        display: inline-block;
+      }
+
+      .github {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 4px;
+        color: rgb(255, 255, 255);
+        background-color: var(--primaryColor);
+        text-align: center;
+        align-self: center;
+        cursor: pointer;
+        width: 14%;
+        margin-bottom: 5px;
+        border-radius: 25px;
+      }
+      
+      .gitub:hover {
+        background-color: rgb(87, 11, 131);
+      }
+
       .row{
         padding-left: 17%;
         margin-bottom: 5%;
