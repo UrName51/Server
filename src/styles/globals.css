@@ -207,35 +207,13 @@ body {
         width: 100%;
         margin-bottom: 16px;
         border-radius: 25px;
+        transition: all 0.5s ease;
       }
       
       .button:hover {
         background-color: rgb(87, 11, 131);
         color: var(--secondaryColor);
-      }
-
-      .profileTitle h2{
-        margin: 0;
-        display: inline-block;
-      }
-
-      .github {
-        border: none;
-        outline: 0;
-        display: inline-block;
-        padding: 4px;
-        color: rgb(255, 255, 255);
-        background-color: var(--primaryColor);
-        text-align: center;
-        align-self: center;
-        cursor: pointer;
-        width: 14%;
-        margin-bottom: 5px;
-        border-radius: 25px;
-      }
-      
-      .gitub:hover {
-        background-color: rgb(87, 11, 131);
+        transition: all 0.5s ease;
       }
 
       .row{
@@ -284,6 +262,7 @@ body {
         transition: color 0.15s ease, border-color o.15s ease;
         max-width: 300px;
         min-height: 200px;
+        transition: all 0.5s ease;
     }
 
     .linkbutton:hover,
@@ -291,6 +270,7 @@ body {
     .linkbutton:active{
         color: rgb(172, 172, 172);
         border-color: rgb(172, 172, 172);
+        transition: all 0.5s ease;
     }
 
     .linkbutton h2{
