@@ -1,4 +1,5 @@
-import Parallax from '@/components/Parallax'
+import Parallax from '@/components/Parallax';
+import Link from 'next/link';
 
 function Home() {
 
@@ -29,10 +30,10 @@ function Home() {
           <p> Some text that describes me lorem ipsum ipsum lorem.</p>
           </a>
 
-          <a href="/" class="linkbutton"> 
+          <Link  href="/websites/Jaume/jaume" class="linkbutton">
           <h2> Jaume's Website &rarr;</h2>
           <p> Some text that describes me lorem ipsum ipsum lorem.</p>
-          </a>
+          </Link>
 
           <a href="/" class="linkbutton"> 
           <h2> Arkadii's Website &rarr;</h2>
