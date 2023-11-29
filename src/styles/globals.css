@@ -294,8 +294,8 @@ body {
     .linkbutton:hover,
     .linkbutton:focus,
     .linkbutton:active{
-        color: rgb(172, 172, 172);
-        border-color: rgb(172, 172, 172);
+        color: rgb(141, 141, 141);
+        border-color: rgb(141, 141, 141);
         transition: all 0.5s ease;
     }
 
